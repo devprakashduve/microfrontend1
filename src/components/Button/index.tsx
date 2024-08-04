@@ -1,6 +1,6 @@
 function Button() {
   const handleClick = () => {
-    console.log("Why you click me?");
+    console.log('Why you click me?');
   };
   // this is test button
   return (
